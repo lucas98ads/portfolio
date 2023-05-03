@@ -1,0 +1,24 @@
+.article-1 {
+    height: 50vh;
+    padding-top: 8vh;
+}
+
+.img-perfil {
+    height: 25vh;
+    width: 25vh;
+    border-radius: 50%;
+}
+
+.redes-sociais {
+    padding-top: 1vh;
+}
+
+.redes-sociais svg {
+    padding: 3px;
+}
+
+.redes-sociais svg {
+    color: white;
+    height: 4vh;
+    width: 4vh;
+}
